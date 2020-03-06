@@ -58,7 +58,7 @@
     margin-bottom: 0.5rem;
   }
 
-  .description {
+  .descricao {
     border-top: 1px solid #ccc;
     padding: 1rem;
   }
@@ -74,7 +74,7 @@
       <h2>{titulo}</h2>
     </div>
   </header>
-  <div class="description">
+  <div class="descricao">
     <p>{descricao}</p>
   </div>
 </div>
